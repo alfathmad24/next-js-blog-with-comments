@@ -21,7 +21,6 @@
         "react": "^16.13.1",
         "react-dom": "^16.13.1",
         "react-hook-form": "^6.7.0",
-        "sanity-plugin-asset-source-cloudinary": "^0.1.0",
         "swr": "^0.2.3"
     },
     "devDependencies": {
